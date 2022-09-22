@@ -1,0 +1,3 @@
+#!/Users/SarthakSinha 1/.virtualenvs/example_env_name/bin/python
+from numba.pycc import main
+main()
